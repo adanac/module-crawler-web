@@ -1,0 +1,54 @@
+.container{
+			margin:0 auto;
+			width:80%;
+			height:140;
+			border:1px solid green;
+			border-bottom:none;
+		}
+		.container2{
+			margin:0 auto;
+			width:80%;
+			border:1px solid green;
+			border-top:none;
+		}
+		#show{
+			width:100%;
+		}
+		#tip{
+			width:100%;text-align:center;float:none;color:green;
+		}
+		.box{
+			border: 1px solid rgb(0, 0, 0);
+			color: rgb(255, 255, 255);
+			margin: 5px;
+			background: rgb(83, 83, 83);
+		}
+		.box:hover{
+			background: green;
+			font-weight: bold;
+		}
+		button{
+			border:1px solid black;
+			background:white;
+			color:black;
+		}
+		button:hover{
+			border:1px solid black;
+			background:gray;
+			color:white;
+		}
+		
+		fieldset{
+			border:1px solid black;
+			width:30%;
+			height:120px;
+			float:left;
+		}
+		select{
+			border:1px solid green;
+			color:green;
+		}
+		textarea{
+			width:100%;
+			height:50px;
+		}
